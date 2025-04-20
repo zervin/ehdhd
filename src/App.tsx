@@ -1,0 +1,1 @@
+export default function App() { return <div className='text-white bg-gray-900 p-4'>EODHD GPT</div>; }
